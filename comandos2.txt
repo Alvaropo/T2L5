@@ -13,5 +13,7 @@ cd dir3
 mkdir dir31
 cd dir31
 mkdir dir311 dir312
+cp /etc/motd.txt /home/alvaro/PRUEBA
+
 
 
