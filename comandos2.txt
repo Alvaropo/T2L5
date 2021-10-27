@@ -5,4 +5,13 @@ ls /home
 pwd
 ls -li
 mkdir PRUEBA
+cd PRUEBA
+mkdir dir1 dir2 dir3
+cd dir1
+mkdir dir11
+cd dir3
+mkdir dir31
+cd dir31
+mkdir dir311 dir312
+
 
