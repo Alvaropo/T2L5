@@ -4,3 +4,4 @@ ls /etc/t* -r
 ls /dev/tty??
 ls /dev | grep ^t | grep [1234]$
 ls /dev | grep ^t | grep C1$
+ls / -a
