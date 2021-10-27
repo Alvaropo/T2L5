@@ -4,4 +4,5 @@ date
 ls /home
 pwd
 ls -li
+mkdir PRUEBA
 
