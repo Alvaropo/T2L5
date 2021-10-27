@@ -3,3 +3,5 @@ pwd
 date
 ls /home
 pwd
+ls -li
+
