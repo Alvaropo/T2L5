@@ -6,4 +6,5 @@ sed -i "s/panza/bariga/g" el_quijote.txt
 sed -i "s/panza/bariga/gi" el_quijote.txt
 head -c 4 el_quijote.txt
 head -c 4000 el_quijote.txt
+head -n25 el_quijote.txt | tail -n11 el_quijote.txt
 
