@@ -1,0 +1,22 @@
+cd /../..
+pwd
+date
+ls /home
+pwd
+ls -li
+mkdir PRUEBA
+cd PRUEBA
+mkdir dir1 dir2 dir3
+cd dir1
+mkdir dir11
+cd dir3
+mkdir dir31
+cd dir31
+mkdir dir311 dir312
+cp /etc/motd.txt /home/alvaro/PRUEBA
+cp /etc/motd.txt /home/alvaro/PRUEBA/dir1
+cp /etc/motd.txt /home/alvaro/PRUEBA/dir2
+cp /etc/motd.txt /home/alvaro/PRUEBA/dir3
+locate motd.txt
+
+
