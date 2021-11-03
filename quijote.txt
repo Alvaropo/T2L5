@@ -7,4 +7,4 @@ sed -i "s/panza/bariga/gi" el_quijote.txt
 head -c 4 el_quijote.txt
 head -c 4000 el_quijote.txt
 head -n25 el_quijote.txt | tail -n11 el_quijote.txt
-
+sort -r el_quijote.txt
