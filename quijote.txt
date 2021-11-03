@@ -1,0 +1,10 @@
+grep -i -o quijote el_quijote.txt | wc -l
+grep -v quijote el_quijote.txt | wc -l
+grep -i -o quijote *.txt | wc -l
+grep -v quijote *.txt | wc -l
+sed -i "s/panza/bariga/g" el_quijote.txt
+sed -i "s/panza/bariga/gi" el_quijote.txt
+head -c 4 el_quijote.txt
+head -c 4000 el_quijote.txt
+head -n25 el_quijote.txt | tail -n11 el_quijote.txt
+sort -r el_quijote.txt
