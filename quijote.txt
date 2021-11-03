@@ -1,2 +1,3 @@
 grep -i -o quijote el_quijote.txt | wc -l
 grep -v quijote el_quijote.txt | wc -l
+grep -i -o quijote *.txt | wc -l
