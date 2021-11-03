@@ -14,6 +14,9 @@ mkdir dir31
 cd dir31
 mkdir dir311 dir312
 cp /etc/motd.txt /home/alvaro/PRUEBA
-
+cp /etc/motd.txt /home/alvaro/PRUEBA/dir1
+cp /etc/motd.txt /home/alvaro/PRUEBA/dir2
+cp /etc/motd.txt /home/alvaro/PRUEBA/dir3
+locate motd.txt
 
 
